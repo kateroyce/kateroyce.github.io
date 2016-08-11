@@ -12,7 +12,7 @@ header {
 
 .jumbotron {
   display: flex;
-  align-items: center;
+  align-items: right;
   background-image: url('http://dartmouth.edu/sites/default/files/styles/header_image/public/1_2007-1333296954.jpg?itok=RPZqcuxI');
   background-size: cover;
   color: #ffffff;
