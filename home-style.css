@@ -18,9 +18,8 @@ header {
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
-.container{
-	background-color: aliceblue;
-	font-family: Georgia, serif;
-	
-}
 
+header.container{
+	background-color: aliceblue;
+	font-family: Georgia, serif
+}
