@@ -18,8 +18,9 @@ header {
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
-#intro{
+.container{
 	background-color: aliceblue;
-	font-family: Georgia, serif
+	font-family: Georgia, serif;
 	
 }
+
