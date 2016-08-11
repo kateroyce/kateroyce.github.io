@@ -5,7 +5,9 @@ The style guide for the homepage.
 */
 
 header {
-	padding: 20px 0;
+	background-color: aliceblue;
+	font-family: Georgia, serif
+	align-items: right;
 }
 
 .jumbotron {
@@ -16,10 +18,4 @@ header {
   color: #ffffff;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
-}
-
-
-header.container{
-	background-color: aliceblue;
-	font-family: Georgia, serif
 }
