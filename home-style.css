@@ -1,3 +1,13 @@
 header {
 	padding: 20px 0;
 }
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('http://dartmouth.edu/sites/default/files/styles/header_image/public/1_2007-1333296954.jpg?itok=RPZqcuxI');
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
