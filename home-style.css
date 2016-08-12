@@ -21,8 +21,10 @@ header {
 }
 
 
-h5{
+td{
 	font-family: Georgia, serif;
 	color: deepskyblue;
+	padding-left:5px;
+	padding-right:5px;
 }
 
