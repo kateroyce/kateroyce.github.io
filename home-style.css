@@ -6,7 +6,6 @@ The style guide for the homepage.
 
 header {
 	font-family: Georgia, serif
-	text-align: right;
 	padding: 20px;
 }
 
@@ -20,9 +19,11 @@ header {
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
-
-h5{
+td{
 	font-family: Georgia, serif;
 	color: deepskyblue;
+	padding-left:5px;
+	padding-right:5px;
+	border-left:1px solid black;
 }
 
